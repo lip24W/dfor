@@ -1,0 +1,37 @@
+
+@import url(./font.css);
+
+body {
+  font-family: 'Bebas';
+}
+
+.navbar-nav .nav-item .nav-link {
+  transition: background-color 0.3s ease;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  background-color: #ffffff;
+}
+
+.navbar-nav .nav-item{
+  font-size: 30px;
+}
+
+.col-md-6 img{
+  width: 5000px;
+}
+
+.registration{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+form{
+
+  flex-wrap: wrap;
+}
+
+
+/* .py-5 {
+  background-image: url(../img/граффити.png);
+} */
